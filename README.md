@@ -11,6 +11,6 @@
 <h3 align="left">Badges:</h3>
 <p>
   <a href="https://www.credly.com/badges/7e044b7b-0c8d-49d6-ae89-51fba4b4983a/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS cloud practitioner" />
+    <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS cloud practitioner" width="120" />
   </a>
 </p>
