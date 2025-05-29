@@ -15,6 +15,10 @@
   </a>
 
   <a href="https://www.credly.com/earner/earned/badge/215346d7-d766-4503-9c9f-7610b38435b9" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS cloud practitioner" width="120" />
+    <img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS developer associate" width="120" />
+  </a>
+  
+  <a href="https://www.credly.com/earner/earned/badge/b3ccb49c-b51f-42b6-9227-51710b2dabdf" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS solution architech associate" width="120" />
   </a>
 </p>
