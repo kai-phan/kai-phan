@@ -23,6 +23,6 @@
   </a>
 
   <a href="https://www.credly.com/badges/3c5a44ad-f618-473f-b3ae-83e18f7f4002/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/size/680x680/images/52c6e5ac-9516-4944-a4df-e31b23c9bbf2/image.png" alt="AWS generative AI professional" width="120" />
+    <img src="https://images.credly.com/size/680x680/images/52c6e5ac-9516-4944-a4df-e31b23c9bbf2/blob" alt="AWS generative AI professional" width="120" />
   </a>
 </p>
